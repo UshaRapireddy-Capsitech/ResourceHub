@@ -22,3 +22,5 @@ yarn-error.log*
 # Environment / Secret files
 .env
 .env.local
+appsettings.Development.json
+ResourceHub.Server/appsettings.Development.json
