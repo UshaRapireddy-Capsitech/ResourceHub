@@ -13,14 +13,12 @@ obj/
 dist/
 build/
 
-# Frontend
-resourcehub.client/node_modules/
-resourcehub.client/dist/
+# Node / Frontend
 node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Secrets & Environment
+# Environment / Secret files
 .env
 .env.local
